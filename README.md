@@ -12,9 +12,9 @@
 
   -Network File Shares and Permissions
 
-<b>Python</b>
+- <b>Python</b>
 
-<b>SQL</b>
+- <b>SQL</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
