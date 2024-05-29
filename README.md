@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-    -Creating Resource Groups and Deploying Virtual Machines in Azure
+    -Creating Resource Groups and Deploying Virtual Machines in Azure(github.com/josephbrides)
     -Installing Active Directory within Azure VMs
     -Configuring Active Directory with Azure VMs
     -Network File Shares and Permissions
