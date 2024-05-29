@@ -6,20 +6,13 @@
 
   -Creating Resource Groups and Deploying Virtual Machines in Azure (https://github.com/JosephBrides)
 
-  Installing Active Directory within Azure VMs
+  -Installing Active Directory within Azure VMs
 
-   Configuring Active Directory with Azure VMs
+  -Configuring Active Directory with Azure VMs
 
-   Network File Shares and Permissions
+  -Network File Shares and Permissions
 
-  -
-- <b></b>
-  - </b></i>
-- <b></b>
-  - 
-- <b></b>
-  - 
-- <b>Python</b>
+<b>Python</b>
   - 
 
 <h2>📺 Popular YouTube Videos</h2>
