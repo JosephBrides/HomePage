@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>, <a href="https://www.linkedin.com/in/josephbrides"></a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>, <a href="https://www.linkedin.com/in/josephbrides"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
