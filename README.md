@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
 
-  -Creating Resource Groups and Deploying Virtual Machines in Azure (https://github.com/JosephBrides/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure/blob/main/README.md)
+  -Creating Resource Groups and Deploying Virtual Machines in Azure (https://github.com/JosephBrides/Auzre-VMs-and-Resource-Groups)
 
   -Installing Active Directory within Azure VMs
 
