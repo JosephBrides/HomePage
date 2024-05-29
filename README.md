@@ -6,9 +6,9 @@
 
   -Creating Resource Groups and Deploying Virtual Machines in Azure (https://github.com/JosephBrides/Auzre-VMs-and-Resource-Groups)
 
-  -Installing Active Directory within Azure VMs
+  -Installing Active Directory within Azure VMs (https://github.com/JosephBrides/Active-Directory-Install/tree/main)
 
-  -Configuring Active Directory with Azure VMs
+  -Configuring Active Directory with Azure VMs (https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
 
   -Network File Shares and Permissions
 
