@@ -1,6 +1,6 @@
 <h1>Hello, I'm Joe! <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>☺<a href="https://www.linkedin.com/in/josephbrides"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-<h2>👨‍💻 Information technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
