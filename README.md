@@ -11,11 +11,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 - <b>Microsoft Azure</b>
 
-  -Creating Resource Groups and Deploying Virtual Machines in Azure (https://github.com/JosephBrides/Auzre-VMs-and-Resource-Groups)
-  -Installing Active Directory within Azure VMs (https://github.com/JosephBrides/Active-Directory-Install/tree/main)
-
-   -Configuring Active Directory with Azure VMs (https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
- -Network File Shares and Permissions (https://github.com/JosephBrides/File-Share-and-Perms)
+  - [Creating Resource Groups and Deploying Virtual Machines in Azure] (https://github.com/JosephBrides/Auzre-VMs-and-Resource-Groups)
+  - [Installing Active Directory within Azure VMs] (https://github.com/JosephBrides/Active-Directory-Install/tree/main)
+   - [Configuring Active Directory with Azure VMs] (https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
+ - [Network File Shares and Permissions] (https://github.com/JosephBrides/File-Share-and-Perms)
 
 - <b>Python</b>
 
