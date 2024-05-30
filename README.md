@@ -1,5 +1,9 @@
 <h1>Hello, world! I'm Joe <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>☺<a href="https://www.linkedin.com/in/josephbrides"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
+Welcome to my github! This repository is meant to showcase my cybersecurity journey and projects I've had the privilage of working on.
+
+I’ve had the privilege of working in an IT role recently, driven by a passion for using technology to solve problems and improve user experiences. From troubleshooting complex technical issues to managing service requests and implementing software and network solutions, these experiences have allowed me to build a strong set of IT skills and shape my understanding of the digital landscape. However, my true calling became clear when my manager introduced me to a zero-trust protocol project for an enetrprise network. This project sparked my deep interest in cybersecurity. As a current cybersecurity and information assurance student pursuing my bachelor and my IT background, they both have provided the perfect foundation for creating a safer digital world.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
