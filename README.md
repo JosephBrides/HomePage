@@ -20,6 +20,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
  <br />
 
 <b>SQL Projects</b>
+[Creating and Manipulating a Database](https://github.com/JosephBrides/Creating-Manipulating-a-Database)
 
  <br />
 
