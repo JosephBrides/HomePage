@@ -10,7 +10,7 @@
 
   -Configuring Active Directory with Azure VMs (https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
 
-  -Network File Shares and Permissions
+  -Network File Shares and Permissions (https://github.com/JosephBrides/File-Share-and-Perms)
 
 - <b>Python</b>
 
