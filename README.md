@@ -17,7 +17,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
    - [Configuring Active Directory with Azure VMs](https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
  - [Network File Shares and Permissions](https://github.com/JosephBrides/File-Share-and-Perms)
 
-- <b>Python</b>
+<br />
+- Python
 
 - <b>SQL</b>
 
