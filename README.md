@@ -31,7 +31,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [linkedin]: https://linkedin.com/in/josephbrides
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
