@@ -7,7 +7,7 @@ I’ve had the privilege of working in an IT role recently, driven by a passion 
 I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities!
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎:</h2>
 <br />
 
 <b>Microsoft Azure</b>
