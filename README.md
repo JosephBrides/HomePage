@@ -1,4 +1,4 @@
-<h1>Hello, world! I'm Joe <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>☺<a href="https://www.linkedin.com/in/josephbrides"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hello, world! I'm Joe <br/><a href="https://www.linkedin.com/in/josephbrides">IT, Cybersecurity professional</a>☺<a href="https://www.linkedin.com/in/josephbrides"></a></h1>
 
 Welcome to my github! This repository is meant to showcase my cybersecurity journey and projects I've had the privilage of working on.
 
