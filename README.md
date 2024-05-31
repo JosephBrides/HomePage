@@ -26,8 +26,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
  <br />
 
  <br />
+
+<b>Offensive Security Labs
  
-<b>Blue team labs</b>
+<b>Defensive Security Labs</b>
 
 -Integrating TPOT and ELK Stack for Blue Team Operations
 
