@@ -27,7 +27,9 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
  <br />
  
-<b>Python projects</b>
+<b>Blue team labs</b>
+
+-Integrating TPOT and ELK Stack for Blue Team Operations
 
  <br />
 
