@@ -11,7 +11,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <br />
 
 <b>IT labs</b>
-  - [Creating a Live SOC / Honey Net in Azure]
+  
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/JosephBrides/Auzre-VMs-and-Resource-Groups)
   - [Installing Active Directory within Azure VMs](https://github.com/JosephBrides/Active-Directory-Install/tree/main)
    - [Configuring Active Directory with Azure VMs](https://github.com/JosephBrides/Configuring-Active-Directory-with-Azure-VMs/tree/main)
@@ -30,6 +30,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <b>Offensive Security Labs
  
 <b>Defensive Security Labs</b>
+
+
+-[Creating a Live SOC / Honey Net in Azure]
+
 
 -Integrating TPOT and ELK Stack for Blue Team Operations
 
